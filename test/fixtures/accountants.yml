@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  acct_ssnid: MyString
+  acct_name: MyString
+  acct_age: 1
+  acct_addr: MyString
+  acct_state: MyString
+  acct_city: MyString
+  acct_designation: MyString
+
+two:
+  acct_ssnid: MyString
+  acct_name: MyString
+  acct_age: 1
+  acct_addr: MyString
+  acct_state: MyString
+  acct_city: MyString
+  acct_designation: MyString

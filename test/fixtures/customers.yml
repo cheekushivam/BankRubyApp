@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  cust_ssnid: MyString
+  cust_name: MyString
+  cust_age: 1
+  cust_addr: MyString
+  cust_state: MyString
+  cust_city: MyString
+
+two:
+  cust_ssnid: MyString
+  cust_name: MyString
+  cust_age: 1
+  cust_addr: MyString
+  cust_state: MyString
+  cust_city: MyString

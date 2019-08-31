@@ -1,0 +1,1 @@
+Sidekiq::Client.enqueue(MailWorker)
